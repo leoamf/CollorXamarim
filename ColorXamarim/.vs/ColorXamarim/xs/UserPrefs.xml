@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{39391650-B886-44D9-8D8F-7576C27E4AF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ColorXamarim.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorXamarim/Main.cs">
+    <Files>
+      <File FileName="ColorXamarim/MainPage.xaml.cs" Line="34" Column="1" />
+      <File FileName="ColorXamarim/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ColorXamarim/Main.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ColorXamarim.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

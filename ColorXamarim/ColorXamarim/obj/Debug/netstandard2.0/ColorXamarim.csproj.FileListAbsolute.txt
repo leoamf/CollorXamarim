@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/bin/Debug/netstandard2.0/ColorXamarim.deps.json
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/bin/Debug/netstandard2.0/ColorXamarim.dll
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/bin/Debug/netstandard2.0/ColorXamarim.pdb
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.AssemblyInfo.cs
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.dll
+/Users/aluno/Desktop/ColorXamarim/ColorXamarim/ColorXamarim/ColorXamarim/obj/Debug/netstandard2.0/ColorXamarim.pdb
